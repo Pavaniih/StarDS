@@ -4,8 +4,8 @@
  Nome da Empresa: Vanilla
 
  Membros do Grupo: 
- Vinicius da Silva Pavani
- Pamela Isabele Dias Carreira
+ Vinicius da Silva Pavani 
+ Pamela Isabele Dias Carreira 
  Pedro Henrique Silva Lodi
  Pedro Titato
  Nayane Godwin do Santos
