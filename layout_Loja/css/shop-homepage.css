@@ -5,17 +5,59 @@
  */
 
 body {
+ 
   padding-top: 45px;
-  background-image: url("fundo.png") ;
-  background-repeat: no-repeat;
+  background-image: url("a4.png") ;
+  background-repeat:repeat;
+
 }
 
-@media (min-width: 992px) {
+@media (min-width: 995px) {
   body {
     padding-top: 56px;
     
   }
 }
+.col-lg-9{
+  margin:50px 25px 50px 250px;
+  position: center;
+}
+
+.container-fluid{
+
+  position: fixed ;
+  position: fixed;
+ 
+  
+
+}
+
+
+.card-deck{
+  margin: 70px;
+}
+
+.jumbotron-fluid{
+  position: absolute;
+  
+}
+.container {
+  position: relative
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
