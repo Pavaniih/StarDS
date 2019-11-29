@@ -1,0 +1,80 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+ 
+  padding-top: 45px;
+  background-image: url("fundoB.png") ;
+  background-repeat:repeat;
+}
+
+@media (min-width: 995px) {
+  body {
+    padding-top: 56px;
+    
+  }
+}
+.col-lg-9{
+  margin:50px 25px 50px 250px;
+  position: center;
+}
+
+.container-fluid
+{
+  position: fixed ;
+  position: fixed;
+}
+
+.container 
+{
+  position: relative;
+  padding-left: 100px;
+  align-items: center;
+  background-color: #596f7c ;
+}
+
+.letras{
+  position: absolute center;
+  margin: 50px 1000px 325px 520px;
+}
+
+.card-deck
+{
+  margin: 70px;
+}
+
+.jumbotron-fluid
+{
+  position: absolute ;
+}
+
+.div1
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px 50px 100px 0px;
+    background-image: url("/css/imagens/abcd.png");
+}
+
+.margin
+{
+  margin: 0px 0px 0px 1px;
+}
+
+.container
+{
+  margin: 0px 0px 0px 0px;
+}
+
+.margi
+{
+  margin: 90px 50px 50px 50px;
+}
+
+.prod
+{
+  margin: 50px 0px 0px 70px;
+}
