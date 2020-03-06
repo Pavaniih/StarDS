@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/17 22:36:17.000.627,=C:\Users\pavan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/02 22:04:30.000.180,=C:\Users\pavan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/02 22:47:15.000.301,C:\Users\pavan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\pavan\Desktop\Delphi Projeto\vanilla.pas</Transaction>
+    <Transaction>2020/03/02 22:47:15.000.301,C:\Users\pavan\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\pavan\Desktop\Delphi Projeto\vanilla.dfm</Transaction>
+    <Transaction>2020/03/02 22:47:43.000.059,C:\Users\pavan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\pavan\Desktop\Delphi Projeto\vanilla01.dproj</Transaction>
+    <Transaction>2020/03/04 19:52:45.000.660,=C:\Users\pavan\Desktop\Delphi Projeto\Unit2.pas</Transaction>
+    <Transaction>2020/03/04 20:45:48.000.338,C:\Users\pavan\Desktop\Delphi Projeto\cadastro.dfm=C:\Users\pavan\Desktop\Delphi Projeto\Unit2.dfm</Transaction>
+    <Transaction>2020/03/04 20:45:48.000.338,C:\Users\pavan\Desktop\Delphi Projeto\cadastro.pas=C:\Users\pavan\Desktop\Delphi Projeto\Unit2.pas</Transaction>
+    <Transaction>2020/03/04 21:37:56.000.459,=C:\Users\pavan\Desktop\Delphi Projeto\cadastro.pas</Transaction>
+    <Transaction>2020/03/04 21:39:23.000.798,=C:\Users\pavan\Desktop\Delphi Projeto\Unit3.pas</Transaction>
+    <Transaction>2020/03/04 21:39:56.000.116,C:\Users\pavan\Desktop\Delphi Projeto\produtos.pas=C:\Users\pavan\Desktop\Delphi Projeto\Unit3.pas</Transaction>
+    <Transaction>2020/03/04 21:39:56.000.116,C:\Users\pavan\Desktop\Delphi Projeto\produtos.dfm=C:\Users\pavan\Desktop\Delphi Projeto\Unit3.dfm</Transaction>
+    <Transaction>2020/03/05 22:15:57.000.856,=C:\Users\pavan\Desktop\Delphi Projeto\Unit4.pas</Transaction>
+    <Transaction>2020/03/05 22:18:48.000.566,C:\Users\pavan\Desktop\Delphi Projeto\Unit4.pas=C:\Users\pavan\Desktop\Delphi Projeto\fornecedor.pas</Transaction>
+    <Transaction>2020/03/05 22:18:48.000.566,C:\Users\pavan\Desktop\Delphi Projeto\Unit4.dfm=C:\Users\pavan\Desktop\Delphi Projeto\fornecedor.dfm</Transaction>
+    <Transaction>2020/03/05 22:19:46.000.923,C:\Users\pavan\Desktop\Delphi Projeto\fornecedor.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
